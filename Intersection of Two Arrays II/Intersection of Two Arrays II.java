@@ -1,11 +1,6 @@
-import java.util.Arrays;
-import java.util.List;
-import java.util.ArrayList;
-import java.util.Iterator;
-import java.util.HashMap;
-import java.util.HashSet;
-import java.util.Set;
-
+/*
+*  use hashMap to save nums1
+*/
  class Solution {
     
     public static int[] hashMap(int[] nums1, int[] nums2){
